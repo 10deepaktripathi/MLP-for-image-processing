@@ -1,1 +1,1 @@
-# MLP-for-image-processing
+I have designed a MLP for an image processing task. Usually we should use CNN for such problems,but for learning purpose i chose to design a MLP in tensor flow and this modal has really performed terrible on Soda Bottle image identification problem.
