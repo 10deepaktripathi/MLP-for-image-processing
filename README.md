@@ -1,1 +1,1 @@
-I have designed a MLP for an image processing task. Usually we should use CNN for such problems,but for learning purpose i chose to design a MLP in tensor flow and this modal has really performed terrible with just 53% accuracy on Soda Bottle image identification problem.
+I have designed a MLP for an image processing task. Usually we should use CNN for such problems,but for learning purpose i chose to design a MLP in tensor flow. In this modal i am trying to identify which soda bottle present in the image
